@@ -85,3 +85,7 @@ The report walks users through a **step-by-step analysis**:
 ## 🏆 Author
 👤 **Harshit Bhatia**  
 📧 Email: [harshitbhatia2612@gmail.com]
+
+DASHBOARD 
+
+<img width="1297" height="729" alt="Image" src="https://github.com/user-attachments/assets/6ddf337c-6b3d-43f8-aa12-80a22b69cf7c" />
